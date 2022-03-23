@@ -1,0 +1,24 @@
+@relation student
+
+@attribute S.no numeric
+@attribute 'Student Name' {Mahesh,prasad,sandeep,akhil,gautham,chandhu,hema,seema,eswar,tharun,lohith,sathish,chaithu}
+@attribute AI numeric
+@attribute ADS numeric
+@attribute DAA numeric
+@attribute STM numeric
+@attribute CD numeric
+
+@data
+1,Mahesh,85,86,?,88,89
+2,prasad,56,98,45,78,99
+3,sandeep,65,78,95,65,?
+4,akhil,89,85,47,65,82
+5,gautham,75,85,95,65,45
+6,chandhu,85,?,78,49,86
+7,hema,98,95,94,75,85
+8,seema,78,85,?,75,89
+9,eswar,89,78,84,85,95
+10,tharun,78,89,84,?,98
+11,lohith,?,78,95,87,98
+12,sathish,78,?,95,45,89
+13,chaithu,85,87,89,59,75

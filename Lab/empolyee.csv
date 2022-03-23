@@ -1,0 +1,14 @@
+s.no,empolyee name,empolye ID,Designation,salary,age
+1,mahesh,sd001,Developer,50000,21
+2,gautham,sd002,Tester,40000,22
+3,sandeep,sd003,System enginner,35000,19
+4,prasad,sd004,,25000,23
+5,tharun,sd005,Debugger,60000,21
+6,vivek,sd006,Tester,46000,19
+7,sathish,sd007,Developer,,18
+8,lohith,sd008,,32000,19
+9,siva sankar,sd009,Tester,56000,21
+10,yeswanth,sd010,,48000,19
+11,chaithanya,sd011,Data scientist,75000,22
+12,pardhu,sd012,android developer,78000,21
+13,kamal,sd013,Tester,65000,20
